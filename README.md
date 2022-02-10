@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://lk.rebrainme.com/pdf/5E37F19F4DE8C98835EEF67C85A5B915RU.pdf" width="400" height="280" />
+<img align="right" alt="GIF" src="https://files.emdesell.ru/10668_LYjiCN8jaCa1ofYAczvcAwar4uobHLzF.jpg" width="400" height="280" />
   
 **Languages and Tools:**  
 
